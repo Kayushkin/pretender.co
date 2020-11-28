@@ -1,7 +1,7 @@
 body {
  background-color: #36393f;   
  color: white;
-
+ font-size: 0;
 }
 
 .navbar {
@@ -14,7 +14,7 @@ body {
 }
 
 .spotify {
-    width: 49.9%;
+    width: 50%;
     height: 630px;
 }
 
@@ -25,6 +25,6 @@ body {
     display: inline;
 }
 .youre-not-my-papa {
-    width: 49.9%;
+    width: 50%;
     height: 630px;
 }
