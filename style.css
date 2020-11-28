@@ -12,3 +12,19 @@ body {
     height: 65px;
     width: 65px;
 }
+
+.spotify {
+    width: 49.9%;
+    height: 630px;
+}
+
+.music {
+    display: inline;
+}
+.youtube {
+    display: inline;
+}
+.youre-not-my-papa {
+    width: 49.9%;
+    height: 630px;
+}
