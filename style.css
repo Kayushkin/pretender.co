@@ -4,8 +4,13 @@ body {
  font-size: 0;
 }
 
+.main {
+    font-size: 2rem;
+}
+
 .navbar {
     background-color: #202225;
+    font-size: 1.2rem;
 }
 
 .logo {
