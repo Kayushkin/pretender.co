@@ -1,10 +1,11 @@
-const INPUT = document.querySelector('#nameInput')
+const input = document.querySelector('#nameInput')
 
-const BUTTON = document.querySelector('#adoptedButton')
+const button = document.querySelector('#nameButton')
 
-BUTTON.addEventListener('click', (e) => {
-    e.preventDefault()
-    if (INPUT.value) {
-        document.querySelector('#nameInputPlace').textContent = `Hi ${INPUT.value}, welcome to this place.`
+console.log("test")
+
+button.addEventListener('click', (e) => {
+    if (input.value) {
+        document.querySelector('#nameInputPlace').textContent = `Hi ${input.value}, welcome to this place.`
     }
 })
